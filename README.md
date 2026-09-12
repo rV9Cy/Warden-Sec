@@ -51,3 +51,4 @@ warden/
 ├── header_scanner.py     # اسکنر هدرهای امنیتی
 └── README.md
 ```
+با عشق تقدیم به شما توسط rV8Cy
