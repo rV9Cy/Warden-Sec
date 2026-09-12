@@ -26,7 +26,10 @@
 ## اجرا
 
 ```bash
-pip install requests arabic-reshaper python-bidi colorama
+pip install requests
+pip install arabic-reshaper
+pip install python-bidi
+pip ibstallcolorama
 python3 main.py
 ```
 
