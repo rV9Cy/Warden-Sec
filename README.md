@@ -26,6 +26,7 @@
 ## اجرا
 
 ```bash
+git clone https://github.com/rV9Cy/Warden-Sec.git
 pip install requests
 pip install arabic-reshaper
 pip install python-bidi
